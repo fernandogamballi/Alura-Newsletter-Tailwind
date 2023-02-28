@@ -1,2 +1,2 @@
-# Alura Newsletter Tailwind
- Curso da alura de como usar o Tailwind.
+# Alura Newsletter - Tailwind
+ Curso da Alura, ensinando a usar o Tailwind CSS.
